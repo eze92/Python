@@ -1,1 +1,1 @@
-#Ejercicios del curso de pyhton Tecno 3F
+# Ejercicios del curso de pyhton Tecno 3F
